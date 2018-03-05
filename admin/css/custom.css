@@ -1,0 +1,18 @@
+.user_area{margin-top: 50px;}
+.custom{margin-top: 50px;}
+.box-title{
+	padding: 15px;
+}
+.pro-img{
+	width: 160px;
+ 	margin: 0 auto;
+}
+.fix{
+	clear:both;
+}
+.part-left{
+	float: left;
+}
+.part-right{
+	float: right;
+}
